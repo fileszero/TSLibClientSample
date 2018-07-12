@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tslibsample": "file:///c:\\usr\\src\\TSLibSample"
+    "tslibsample": "file:../TSLibSample"
   }
 }
