@@ -1,4 +1,5 @@
 import { AwesomeUtil } from "tslibsample";
 
-const util = new AwesomeUtil();
+const util: AwesomeUtil = new AwesomeUtil();
 util.say();
+console.log(util.getName());
